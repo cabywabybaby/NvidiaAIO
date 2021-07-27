@@ -1,0 +1,11 @@
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\bin\Debug\Nvidia AIO.exe.config
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\bin\Debug\Nvidia AIO.exe
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\bin\Debug\Nvidia AIO.pdb
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia_AIO.Form1.resources
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia_AIO.Properties.Resources.resources
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia_AIO.Tweaks.resources
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia AIO.csproj.GenerateResource.cache
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia AIO.csproj.CoreCompileInputs.cache
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia AIO.exe
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia AIO.pdb
+C:\Users\caleb\source\repos\Nvidia AIO\Nvidia AIO\obj\Debug\Nvidia_AIO.Programss.resources
